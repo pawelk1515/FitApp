@@ -549,8 +549,8 @@ footer{
 
 @media(max-width: 1100px){
 	.header-heading {
-		font-size: 40vw;
-		line-height: 40vw;
+		font-size: 30vw;
+		line-height: 25vw;
 		display: flex;
 		flex-direction: column;
 		justify-content: center;
